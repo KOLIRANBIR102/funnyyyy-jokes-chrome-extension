@@ -1,2 +1,2 @@
-# funnyyyy-jokes-chrome-extension
-It is a chrome extension which gets a funny joke for you every time you click it.
+# Funnyyyy-Jokes-Chrome-Extension
+You click on this google chrome extension to get a random Joke every time 😂
